@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   4078	     16	     22	   4116	   1014	C:\Users\ASUS\Downloads\NEW PROJECT\release\NEW PROJECT .elf
